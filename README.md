@@ -1,4 +1,4 @@
-### GitHub Repository Showcase: Blockchain Fundamentals in Python
+### Blockchain Fundamentals in Python
 
 ---
 ![Blockchain Technology](https://editor.analyticsvidhya.com/uploads/49174Blockchain-Technology.png)
