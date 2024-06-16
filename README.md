@@ -4,7 +4,7 @@
 
 # 🌐 Blockchain Fundamentals in Python
 
-Welcome to the **Blockchain Fundamentals** GitHub repository! This project demonstrates the basic principles of blockchain technology using Python. It includes the creation of blocks, mining, and a decentralized peer-to-peer network simulation. The code is well-documented and visualizes the blockchain network using `networkx` and `matplotlib`.
+Welcome to the **Blockchain Fundamentals** GitHub repository! This project demonstrates the basic principles of blockchain technology using Python. It includes the creation of blocks, mining, and a decentralized peer-to-peer network simulation. The code is well-documented and visualizes the blockchain network using `hashlib`, `networkx` and `matplotlib`.
 
 ## 📂 Repository Structure
 
