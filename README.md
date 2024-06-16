@@ -170,7 +170,7 @@ Feel free to explore the code, run the simulations, and visualize the blockchain
 
 ### Contact
 
-For any queries or discussions, please reach out to the repository maintainer at [email@example.com](suvro5495@gmail.com).
+For any queries or discussions, please reach out to the repository maintainer at [suvro5495@gmail.com](suvro5495@gmail.com).
 
 ---
 
