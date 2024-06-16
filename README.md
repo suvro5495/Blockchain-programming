@@ -1,6 +1,7 @@
 ### GitHub Repository Showcase: Blockchain Fundamentals in Python
 
 ---
+![Blockchain Technology](https://editor.analyticsvidhya.com/uploads/49174Blockchain-Technology.png)
 
 # 🌐 Blockchain Fundamentals in Python
 
@@ -155,7 +156,7 @@ if __name__ == '__main__':
 
 Each node in the network is represented by a labeled node in the graph. The edges represent connections between the nodes.
 
-![Blockchain Network](https://www.researchgate.net/profile/Raj-Jain/publication/326888946/figure/fig1/AS:659579461447682@1534267406813/Blockchain-network-database-blocks-and-transactions_W640.jpg)
+![Blockchain Network](https://unova.io/wp-content/uploads/2021/11/blockchainnetworkunova-1536x1305.png)
 
 ## 🌟 Contributions
 
