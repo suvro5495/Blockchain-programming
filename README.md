@@ -9,7 +9,6 @@ blockchain-fundamentals/
 ├── README.md
 ├── blockchain.ipynb
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
