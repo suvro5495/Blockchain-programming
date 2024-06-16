@@ -155,7 +155,7 @@ if __name__ == '__main__':
 
 Each node in the network is represented by a labeled node in the graph. The edges represent connections between the nodes.
 
-![Blockchain Network](network_graph.png)
+![Blockchain Network](https://www.researchgate.net/profile/Raj-Jain/publication/326888946/figure/fig1/AS:659579461447682@1534267406813/Blockchain-network-database-blocks-and-transactions_W640.jpg)
 
 ## 🌟 Contributions
 
@@ -169,7 +169,7 @@ Feel free to explore the code, run the simulations, and visualize the blockchain
 
 ### Contact
 
-For any queries or discussions, please reach out to the repository maintainer at [email@example.com](mailto:email@example.com).
+For any queries or discussions, please reach out to the repository maintainer at [email@example.com](suvro5495@gmail.com).
 
 ---
 
