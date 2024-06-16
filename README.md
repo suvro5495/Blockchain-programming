@@ -118,6 +118,7 @@ plt.axis('off')
 plt.show()
 ```
 ![Proof-of-Work(PoW)](https://intellipaat.com/mediaFiles/2019/02/Blockchain-07.jpg)
+![Proof-of-Stake(PoS)](https://editor.analyticsvidhya.com/uploads/69751-infographics-Proof-of-Stake-PoS-.png)
 
 ### Running the Network
 
