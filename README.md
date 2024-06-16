@@ -2,6 +2,7 @@
 
 ---
 ![Blockchain Technology](https://editor.analyticsvidhya.com/uploads/49174Blockchain-Technology.png)
+![Block in the chain](https://intellipaat.com/mediaFiles/2019/02/Blockchain-03.jpg)
 
 # 🌐 Blockchain Fundamentals in Python
 
@@ -116,6 +117,7 @@ nx.draw(G, pos, with_labels=True, node_color='skyblue', node_size=600, font_size
 plt.axis('off')
 plt.show()
 ```
+![Proof-of-Work(PoW)](https://intellipaat.com/mediaFiles/2019/02/Blockchain-07.jpg)
 
 ### Running the Network
 
